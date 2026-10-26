@@ -1,0 +1,19 @@
+{
+  "generated_timestamp": "2026-10-26T01:42:18.053446",
+  "total_sensor_records": 34560,
+  "total_maintenance_records": 38,
+  "total_schedule_records": 2160,
+  "unique_machines": 12,
+  "sampling_rate_minutes": 30,
+  "failure_rate": 0.08718171296296297,
+  "breakdown_events": 35,
+  "preventive_events": 3,
+  "fault_distribution": {
+    "None": 31547,
+    "Shaft Imbalance & High Vibration": 771,
+    "Motor Coil Overload": 715,
+    "Hydraulic Pressure Drop": 655,
+    "Bearing Degradation": 550,
+    "Overheating & Thermal Runaway": 322
+  }
+}
